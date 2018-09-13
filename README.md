@@ -1,2 +1,2 @@
-# eexamination
+# well
 An app for questionaires.
